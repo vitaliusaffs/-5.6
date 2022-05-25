@@ -1,0 +1,45 @@
+пакет  com . компанія ;
+
+публічний  клас  FirstTask {
+
+    int  'aa' = 11 / 2 ;
+    система . поза . println ( 'aa' );
+}
+
+пакет  com . компанія ;
+
+публічний  клас  Main {
+
+    public  static  void  main ( рядок [] аргументи ) {
+	// напишіть тут свій код
+    }
+}
+публічний  клас  FirstTask {
+
+    public  static  void  main ( рядок [] аргументи ) {
+        int  aa = 11 / 2 ;
+        система . поза . println ( aa );
+        int  f = 11 % 2 ;
+        система . поза . println ( f );
+    }
+}
+публічний  клас  SecondTask {
+
+    public  static  void  main ( рядок [] аргументи ) {
+        int  a = 45 ;
+        int  b = a % 10 ;
+        int  c =( a / 10 )% 10 ;
+        система . поза . println ( "Сума цифр " + a + " дорівнює) " +( b + ) ;
+    }
+}
+публічний  клас  ThirdTask {
+    public  static  void  main ( рядок [] аргументи ) {
+
+
+            float  num = 4,39f ;
+
+            система . поза . println ( Math . round ( num ));
+
+
+    }
+}
